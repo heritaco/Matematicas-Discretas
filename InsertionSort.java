@@ -12,6 +12,7 @@ public class InsertionSort {
 	// Less steps than Bubble sort
 	// Best case is O(n) compared to Selection sort O(n^2)
 
+	// The invariance loop is that A[0] to A[i-1] is sorted
 	public static void main(String[] args) {
 
 		int array[] = { 9, 1, 8, 2, 7, 3, 6, 5, 4 };

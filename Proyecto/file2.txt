@@ -1,0 +1,103 @@
+
+Menú
+Profesional Review
+Switch skin
+ Inicio/Tutoriales
+SoftwareTutoriales
+Obsidian: qué es y cómo te ayuda esta plataforma a gestionar tus notas
+En esta artículo te hablo de Obsidian, una herramienta para gestionar notas y proyectos que te interesa conocer.
+Edgar Otero15 octubre, 2023 4 minutos de lectura aproximada.
+En este artículo voy a hablarte sobre Obsidian, una completa aplicación de notas que puedes usar en tu ordenador, móvil o tableta para organizar tus ideas, guardar elementos, crear bosquejos y mucho más. Se trata de una herramienta con infinidad de funciones que merece la pena conocer.
+
+Los apartados que incluyo en esta guía tienen como objetivo explicarte qué es Obsidian, qué ventajas tiene y cómo puedes sacarle todo el partido para gestionar tus notas. También te aclaro algunos conceptos clave para que entiendas cómo funciona exactamente esta aplicación.
+
+Índice de contenidos
+
+¿Qué es Obsidian y para qué sirve?
+Unas breves palabras sobre Markdown
+Ventajas de usar Obsidian para organizarte
+Aplicación gratuita
+Uso de formatos estandarizados
+Ampliación de funciones con extensiones
+Personalización del entorno
+Herramienta multiplataforma
+¿Merece la pena Obsidian?
+¿Qué es Obsidian y para qué sirve?
+Obsidian es una versátil herramienta de gestión de notas que ha ganado popularidad en los últimos años. Se trata de un software diseñado para ayudar a las personas a organizar, conectar y desarrollar sus ideas de manera eficiente.
+
+
+
+Su principal característica es su enfoque en la creación y navegación de documentos interconectados, lo que lo convierte en una potente herramienta para la toma de notas, la planificación de proyectos y la generación de contenido. De hecho, propone un sistema muy parecido al de la Wikipedia, con enlaces internos entre notas que generan redes de documentos y conocimiento.
+
+Dicho de otro modo, Obsidian es un sistema de notas vinculadas que utiliza el concepto de “wikilinks” para relacionar automáticamente palabras clave y temas dentro de sus documentos. De esta manera, se simplifica la exploración de ideas, la identificación de patrones y la construcción de una plataforma de conocimient.
+
+Además, Obsidian es altamente personalizable, lo que permite a los usuarios adaptar su entorno de trabajo a sus necesidades específicas. Puede integrarse con aplicaciones de terceros, admitir el uso de complementos y temas personalizados, y ofrece opciones de exportación versátiles.
+
+Unas breves palabras sobre Markdown
+Todo lo que escribas en Obsidian se formatea con un sistema que se ha convertido en todo un estándar. Pero, ¿en qué consiste? Su nombre es Markdown y es un lenguaje de marcado ligero utilizado para formatear texto de manera sencilla y legible en plataformas digitales. Fue creado para simplificar la escritura y la publicación en la web, permitiendo a los usuarios agregar formato básico a sus documentos sin la necesidad de aprender un código complicado.
+
+
+Este es un ejemplo de cómo se maneja el formato en una nota de Obsidian con Markdown
+Se ha convertido en una herramienta popular para bloggers, escritores y desarrolladores debido a su facilidad de uso y portabilidad. Los documentos escritos en Markdown pueden ser convertidos fácilmente a HTML u otros formatos como PDF o DOCX utilizando software o herramientas en línea. De hecho, se trata de una opción tan popular que se ha integrado en servicios como WhatsApp o aplicaciones de tareas.
+
+Ventajas de usar Obsidian para organizarte
+Obsidian es una plataforma que merece la pena explorar cuando se trata de organizar ideas, gestionar proyectos y colaborar con otros. Pero, ¿qué ventajas tiene exactamente? Veamos.
+
+Aplicación gratuita
+El primer punto a favor de Obsidian es que es gratis para uso personal. Así que puedes bajar la aplicación sin coste en cualquier plataforma. Solo si vas a usarla en tu empresa vas a tener que pagar, tanto por la licencia como por servicios como la sincronización en servidores propios del desarrollador.
+
+Uso de formatos estandarizados
+El uso de Markdown te permite aplicar tus conocimientos con este lenguaje de marcado en Obsidian. Y si no sabes muy bien cómo formatear texto con este sistema, aprender es muy sencillo. Todas las notas se alojan en un archivo MD que se puede abrir con cientos de aplicaciones compatibles.
+
+Ampliación de funciones con extensiones
+Las extensiones y plugins de Obsidian son uno de los pilares de la aplicación. Encontrarás complementos para exportar tus notas a diferentes formatos, para crear tablas, para integrar servicios de terceros y mucho más.
+
+Personalización del entorno
+Obsidian es altamente personalizable. No solo es que puedas instalar plugins para adaptar la aplicación a tu flujo de trabajo. Es que puedes cambiar los atajos de teclado, instalar temas, modificar la fuente…
+
+Herramienta multiplataforma
+
+
+Obsidian está disponible en Windows, Android, Mac, iOS y Linux. Podrás usarla sin sincronización en cualquier sistema operativo. Y si deseas guardar tus notas en la nube, opta por Obsidian Sync o por una plataforma compatible con cada sistema. Por ejemplo, si usas Mac y iOS, puedes aprovechar las capacidades de iCloud.
+
+¿Merece la pena Obsidian?
+¿Merece la pena Obsidian? Por supuesto que sí. Hablamos de una aplicación muy completa, que se va a ajustar a tus necesidades sin problemas. El hecho de que sea gratuita te permite hacer las pruebas necesarias para comprobar si suple tus necesidades.
+
+Por otro lado, la comunidad que hay detrás aporta su granito de arena con los plugins y extensiones, haciendo de Obsidian una herramienta difícil de superar por la competencia.
+
+
+Obsidian te permite, previo pago, publicar tus notas en forma de wiki en Internet.
+A todo esto, hay que sumarle el soporte a Markdown y el hecho de que trabaje con archivos de texto en formato MD, haciendo que las notas sean fácilmente exportables y manipulables con otras herramientas. Si algún día decides dejar Obsidian, todos los datos estarán alojados en tu equipo y podrán ser manipulados con cualquier otra aplicación compatible.
+
+Te recomiendo probar Obsidian en los siguientes casos:
+
+Deseas crear un mapa de conocimientos. Se trata de una app muy buena para generar bases de datos con contenidos enlazados entre sí.
+Buscas una aplicación para tomar notas. También es una herramienta genial para esto, puesto que incluye funciones específicas para esto, como un sistema de anotación diario.
+Quieres gestionar proyectos con otros usuarios. El contenido de Obsidian puede sincronizarse en Google Drive, Dropbox o iCloud. Tan solo debes compartir con otros usuarios la carpeta correspondiente y listo. Además, la app guarda automáticamente los cambios cada vez que se producen.
+En mi caso, Obsidian ha sido un grato descubrimiento que tenía que compartir con vosotros. ¿Crees que es para ti? Deja tu opinión en los comentarios para que toda la comunidad de Profesional Review la conozca. ¡Te leemos!
+
+Facebook	X	LinkedIn	Skype	WhatsApp	Telegram	Comparte vía Email
+Los datos de carácter personal que nos facilite mediante este formulario quedarán registrados en un fichero de Miguel Ángel Navas Carrera, con la finalidad de gestionar los comentarios que realizas en este blog. La legitimación se realiza a través del consentimiento del interesado. Si no se acepta no podrás comentar en este blog. Puedes consultar Política de privacidad. Puede ejercitar los derechos de acceso, rectificación, cancelación y oposición en info@profesionalreview.com
+VER COMENTARIOS
+logo media profesional review
+
+En Profesional Review encontrarás todos los análisis, noticias y tutoriales más interesantes. Especialistas en hardware, configuraciones de PC, periféricos, software, smartphone y cualquier producto tecnológico que veamos interesante. ¡Únete a nuestra comunidad!
+
+CAMBIAR AJUSTES PRIVACIDAD
+Buscar:
+Buscar …
+INFO:
+Acerca de / Contacto
+Aviso Legal
+Configuraciones PC a medida
+Política de cookies
+Política de privacidad
+AMD Apple Asus Corsair especificaciónes geforce gigabyte Google Intel Microsoft MSI Nvidia Razer Ryzen Samsung SSD Windows 10 Xiaomi
+© Copyright 2011 - 2024, Todos los derechos reservados. · Diseñada por Profesional Review
+RSS
+Facebook
+X
+YouTube
+Instagram
+Twitch
+TikTok
